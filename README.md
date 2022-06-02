@@ -4,7 +4,7 @@ Introduction to NodeJS Part 2: MongoDB Integration
 
 ## Contents:
 
----
+
 
 - db - This folder contains the module for connecting to the DB
 - models - This folder contains file for database modelling
@@ -12,7 +12,6 @@ Introduction to NodeJS Part 2: MongoDB Integration
 
 ## Dependencies Used:
 
----
 
 - express - A lightweight and adaptable Node.js web application framework that offers a comprehensive set of features for developing web and mobile applications.
 - mongoose - A MongoDB and Node.js Object Data Modeling (ODM) library. It manages data relationships, performs schema validation, and is used to translate between objects in code and their representation in MongoDB.
@@ -20,7 +19,7 @@ Introduction to NodeJS Part 2: MongoDB Integration
 
 ## How to Run:
 
----
+
 
 Using a CLI:
 
